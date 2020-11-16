@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cipher_Tache_Julia"
+name = "cipher_jat2167"
 version = "0.1.0"
 description = "A cipher function which encodes a string based on shifting the letters across n positions in the alphabet."
 authors = ["Julia Tache <jat2167@columbia.edu>"]
