@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "cipher_jat2167"
-version = "0.1.0"
+name = "cipher_jat2167_2"
+version = "0.2.0"
 description = "A cipher function which encodes a string based on shifting the letters across n positions in the alphabet."
 authors = ["Julia Tache <jat2167@columbia.edu>"]
 license = "MIT"
