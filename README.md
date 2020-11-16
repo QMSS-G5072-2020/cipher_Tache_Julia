@@ -53,7 +53,7 @@ new_text: "jgnnq yqtnf"
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://cipher_jat2167.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://cipher-tache-julia.readthedocs.io/en/latest/
 
 ## Contributors
 
