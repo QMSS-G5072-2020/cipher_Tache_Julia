@@ -4,6 +4,10 @@ version = "0.1.0"
 description = "A cipher function which encodes a string based on shifting the letters across n positions in the alphabet."
 authors = ["Julia Tache <jat2167@columbia.edu>"]
 license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/QMSS-G5072-2020/cipher_Tache_Julia"
+repository = "https://github.com/QMSS-G5072-2020/cipher_Tache_Julia"
+documentation = 'https://cipher_Tache_Julia.readthedocs.io'
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -20,3 +24,4 @@ sphinxcontrib-napoleon = "^0.7"
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
+
